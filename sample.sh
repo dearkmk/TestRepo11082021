@@ -1,0 +1,1 @@
+echo "this is a pratice job for Jenkins shell scripting"
